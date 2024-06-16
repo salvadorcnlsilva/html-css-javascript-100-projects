@@ -14,9 +14,14 @@ This is the course: [HTML5, CSS3 and JavaScript 100+ Projects For Beginners](htt
 
 ## Projects
 
+Goal: 4/100  
+
+I'm also hosting the websites here: www.salaoazul.com/web-learning
+
 The projects I'm developing can be found in the following directories:
 
 001. [BackGround Video](/001_bg-video/index.html)
 002. [Loading Screen](/002_loading-animation/index.html)
 003. [Custom Scroll Bar](/003_scroll-bar/index.html)
-004. [soon]
+004. [Image Hover Effects](004_image-hover-effects/index.html)
+005. [Soon]
